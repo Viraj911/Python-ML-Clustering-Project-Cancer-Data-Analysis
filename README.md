@@ -33,10 +33,10 @@ This project aims to perform clustering analysis on a health-related dataset. Th
 11. **Cluster Label Column**: Add a column for the K-Means cluster labels.
 
 ## Authors
-- Viraj Panchal
+- Viraj Panchal data science
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
-- Data provided by www.fingertips.co.in
+- Data provided by www.fingertips.co.in 
